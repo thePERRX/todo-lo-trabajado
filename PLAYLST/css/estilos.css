@@ -1,0 +1,190 @@
+
+
+
+body{
+   background-color: rgb(26, 25, 24); 
+   
+}
+/*encabezado*/
+
+
+
+
+/*principal*/
+#tema-1{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-2{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-3{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-4{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-5{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-6{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-7{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-8{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-9{
+    background-image: url(/assets/img/perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tema-10{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+th,td{
+    background-color: rgb(32, 32, 32);
+    border: 1px solid #ffa600;
+    color: white;
+ 
+   
+}
+h2{
+    color: white;
+    text-align: center;
+}
+img{
+    width:60px;
+    height:60px;
+}
+header{
+  background-color: rgb(28, 28, 28);
+  width: 100%;
+   
+    height:200px;
+}
+tr{
+    text-align: center;
+}
+table{
+    background-color: rgb(#f7bd0100);
+  
+  width: 67%;
+  border-collapse: collapse;
+ 
+}
+main{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+#residente{
+    background-image: url(/assets/img/COLOR-CHETO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#mil-horas{
+    background-image: url(/assets/img/color-chrto-3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#plan_a{
+    background-image: url(/assets/img/COLOR-CHETO-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+#te-deseo-lo-mejor{
+    background-image: url(/assets/img/color-cheto-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+#la-ley{
+    background-image: url(/assets/img/la-trampa-es-ley.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+#pa-tra{
+    background-image: url(/assets/img/callejero-fino.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+#salas-titan{
+    background-image: url(/assets/img/salas-titan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+#la-dificil{
+    background-image: url(/assets/img/la-dificil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+#cayo-la-noche{
+    background-image: url(/assets/img/cayo-la-noche.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#entre-nosotros{
+    background-image: url(/assets/img/LA-ULTIMA-JIJIJA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+footer{
+    background-color: rgb(28, 28, 28);
+    width: 100%;
+   
+    height:200px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+
+
+
+
+/*pie*/

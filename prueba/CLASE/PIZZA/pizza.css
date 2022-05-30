@@ -1,0 +1,120 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+header {
+    background-color: rgb(107, 225, 182);
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+border-radius: 25px;
+    border: 8px solid rgb(137, 245, 222);
+}
+.l{
+    margin-left: 250px;
+    margin-bottom: 70px;
+}
+li{
+  
+    display: inline;
+    width: 100%;
+}
+.datos-de-usuario{
+    font-size: 35px;
+}
+.form-register{
+   margin-top: 5PX;
+    padding: 15px;
+ 
+   
+}
+.dat{
+    font-size: 25px;
+}
+.d4tos{
+    width: 100%;
+    height: 4em;
+    border: 3px solid rgb(137, 245, 222);
+    margin: 5px;
+}
+.form-1{
+    width: 100%;
+    height: 3em;
+    border: 3px solid rgb(137, 245, 222);
+    border-radius: 5px;
+}
+.datitos{
+    width: 100%;
+}
+.datos{
+    width: 100%;
+    height: 3em;
+    border: 3px solid rgb(137, 245, 222);
+    border-radius: 5px;
+   margin: 5px;
+ 
+  
+    
+}
+.datos-de-pizza{
+    font-size: 20px;
+}
+.tipos-de-pizza{
+    font-size: 20px;
+}
+.caja-form{
+    float: left;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    margin: 50px;
+    padding: 15px;
+    margin-bottom: 5px;
+    background-image: url(/PIZZA/imagenes/pizza-3.jpeg);
+    
+
+    
+}
+.tik{
+   margin-left: 1305px;
+}
+.insta{
+    color: white;
+   
+  justify-content: space-between;
+  margin-right: 20px;
+   
+}
+.olak{
+    vertical-align: middle;
+}
+footer{
+  
+  display: flex;
+  justify-content: space-between;
+    background-color: rgb(107, 225, 182);
+    border: 8px solid rgb(137, 245, 222);
+    border-radius: 25px;
+    height: 200px;
+  
+}
+
+.IMAGEN{
+    vertical-align: middle;
+}
+
+main{
+    background-image: url(/PIZZA/imagenes/pizza-1.jpg);
+    height: 800px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+   
+    
+}

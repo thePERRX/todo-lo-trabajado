@@ -1,0 +1,17 @@
+ <H2 id="hola">
+            CREDITOS ADICIONALES...(EL CAPO)
+        </H2>
+        <P id="alo">
+            PERSONAL ACREDITO PARA EL LABURO: NACHITO<BR>
+             a su disposicion o atencion al cliente:299-4710-357
+        </P>
+          <footer>
+
+        <h2>
+            Ignacio Adan Delgado
+        </h2>
+        <h3>
+            <IMG src="assets/img/logocet30-80.png">
+        </h3>
+
+    </footer>

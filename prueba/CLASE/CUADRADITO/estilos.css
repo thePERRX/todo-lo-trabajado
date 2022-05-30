@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: rgb(125, 138, 150);
+   
+}
+
+.negro{
+    background-color: black;
+    height: 400px;
+    margin: 25px;
+    width: 400px;
+
+}
+.violeta{
+    background-color: rgb(161, 30, 212);
+    height: 350px;
+    margin: 25px;
+    width: 350px;
+}
+.gris{
+  background-color: rgb(184, 184, 184);
+    height: 300px;
+    margin: 25px;
+    width: 300px;
+}
+.verde-agua{
+    background-color: rgb(196, 15, 15);
+    height: 250px;
+    margin: 25px;
+    width: 250px;
+}
+.celeste{
+    background-color: rgb(46, 226, 23);
+    height: 200px;
+    margin: 25px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

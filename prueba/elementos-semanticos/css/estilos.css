@@ -1,0 +1,57 @@
+/*
+body {
+
+}
+*/
+/* 
+ANATOMIA DEL CSS
+
+selector {
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+/*
+selectores por etiqueta html
+h1, p,b,br,u,etc
+*/
+/*
+selector ID se identifica siempre con el #
+#parrafo {
+    color; blue
+*/
+body {
+    background-color: hsl(0, 0%, 0%);
+   
+}
+table{
+    background-color: aliceblue;
+    color: aqua;
+    width: 100%;
+    
+}
+p{
+    color: aliceblue;
+}
+br{
+  color: aliceblue;
+}
+th{
+    color: brown;
+}
+h3 {
+    color: rgb(108, 201, 46);
+
+}
+span {
+    color: rgb(14, 27, 212);
+    background-color: rgb(255, 127, 133);
+}
+h2{
+    color: aliceblue;
+
+}
+h4{
+    color: aliceblue;
+
+}
